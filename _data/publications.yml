@@ -7,3 +7,5 @@ index:
 - {name: 'Online adversarial purification based on self-supervised learning', url: 'https://arxiv.org/pdf/2101.09387.pdf'}
 - {name: 'Learning Disentangled Behavior Embeddings', url: 'https://proceedings.neurips.cc/paper_files/paper/2021/file/be37ff14df68192d976f6ce76c6cbd15-Paper.pdf'}
 - {name: 'Conditional Image-to-Video Generation with Latent Flow Diffusion Models', url: 'https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_Conditional_Image-to-Video_Generation_With_Latent_Flow_Diffusion_Models_CVPR_2023_paper.pdf'}
+- {name: 'Exploring Compositional Visual Generation with Latent Classifier Guidance', url: 'https://openaccess.thecvf.com/content/CVPR2023W/GCV/papers/Shi_Exploring_Compositional_Visual_Generation_With_Latent_Classifier_Guidance_CVPRW_2023_paper.pdf'}
+- {name: 'Graph Laplacian Learning with Exponential Family Noise', url: 'https://arxiv.org/pdf/2306.08201.pdf'}
