@@ -2,11 +2,11 @@
   <div>
     {% if page.title == "Home" %}
     <h3 class="fw-bold border-bottom pb-3 mb-5">Teaching</h3>
-      {% for item in site.data.teaching %}
+      {% for item in site.data.teaching.ta %}
         <p><a>{{ item.name }}</a></p>
       {% endfor %}
     {% else %}
-      {% for item in site.data.teaching %}
+      {% for item in site.data.teaching.ta %}
         <p><a>{{ item.name }}</a></p>
       {% endfor %}
     {% endif %}
