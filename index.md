@@ -3,6 +3,8 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I am a Ph.D. student at the University of California, San Diego (UCSD), advised by Professor Gal Mishne.
+I am broadly interested in assorted machine learning problems, with a focus on generative models of various types of data.
+Currently I am working on the intersection of probablistic graphical modeling and graph signal processing.
+Previously, I obtained my bachelor degree in Biomedical Engineering from Beihang University (former BUAA).
+I also interned at NEC Lab America.
