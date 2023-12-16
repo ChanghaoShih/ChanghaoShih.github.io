@@ -3,11 +3,11 @@
     {% if page.title == "Home" %}
     <h4 class="fw-bold border-bottom pb-3 mb-5">Selected Publications</h4>
       {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }} {{ item.author }} {{ item.publish }}</a></p>
+        <p><a href="{{ item.url }}">{{ item.name }}</a> <a>{{ item.author }} {{ item.publish }}</a></p>
       {% endfor %}
     {% else %}
       {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }} {{ item.author }} {{ item.publish }}</a></p>
+        <p><a href="{{ item.url }}">{{ item.name }}</a> <a>{{ item.author }} {{ item.publish }}</a></p>
       {% endfor %}
     {% endif %}
   </div>
