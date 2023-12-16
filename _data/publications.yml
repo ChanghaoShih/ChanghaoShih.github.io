@@ -1,7 +1,7 @@
 featured:
 - {name: 'Conditional Image-to-Video Generation with Latent Flow Diffusion Models, ',
   author: 'H. Ni, C. Shi, K. Li, S. X. Huang and M. R. Min, ',
-  publish: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)',
+  publish: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023).',
   url: 'https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_Conditional_Image-to-Video_Generation_With_Latent_Flow_Diffusion_Models_CVPR_2023_paper.pdf'}
 - {name: 'Learning Disentangled Behavior Embeddings, ', 
   author: 'C. Shi, S. Schwartz, S. Levy, S. Achvat, M. Abboud, A. Ghanayim, J. Schiller and G. Mishne, ',
@@ -9,24 +9,24 @@ featured:
   url: 'https://proceedings.neurips.cc/paper_files/paper/2021/file/be37ff14df68192d976f6ce76c6cbd15-Paper.pdf'}
 - {name: 'Online adversarial purification based on self-supervised learning, ', 
   author: 'C. Shi, C. Holtz and G. Mishne, ',
-  publish: '9th International Conference on Learning Representations (ICLR 2021)',
+  publish: '9th International Conference on Learning Representations (ICLR 2021).',
   url: 'https://arxiv.org/pdf/2101.09387.pdf'}
 
 index:
 - {name: 'Cartesian Product Graph Learning with Laplacian Constraints, ',
   author: 'C. Shi and G. Mishne, ',
-  publish: 'in submission'}
+  publish: 'in AISTATS submission.'}
 - {name: 'Graph Laplacian Learning with Exponential Family Noise, ', 
   author: 'C. Shi and G. Mishne, ',
-  publish: 'in submission',
+  publish: 'in submission.',
   url: 'https://arxiv.org/pdf/2306.08201.pdf'}
 - {name: 'Conditional Image-to-Video Generation with Latent Flow Diffusion Models, ', 
   author: 'H. Ni, C. Shi, K. Li, S. X. Huang and M. R. Min, ',
-  publish: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)',
+  publish: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023).',
   url: 'https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_Conditional_Image-to-Video_Generation_With_Latent_Flow_Diffusion_Models_CVPR_2023_paper.pdf'}
 - {name: 'Exploring Compositional Visual Generation with Latent Classifier Guidance, ', 
   author: 'C. Shi, H. Ni, K. Li, S. Han, M. Liang and M. R. Min, ',
-  publish: 'Workshops of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPRW 2023)',
+  publish: 'Workshops of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPRW 2023).',
   url: 'https://openaccess.thecvf.com/content/CVPR2023W/GCV/papers/Shi_Exploring_Compositional_Visual_Generation_With_Latent_Classifier_Guidance_CVPRW_2023_paper.pdf'}
 - {name: 'Learning Disentangled Behavior Embeddings, ', 
   author: 'C. Shi, S. Schwartz, S. Levy, S. Achvat, M. Abboud, A. Ghanayim, J. Schiller and G. Mishne, ',
@@ -34,8 +34,8 @@ index:
   url: 'https://proceedings.neurips.cc/paper_files/paper/2021/file/be37ff14df68192d976f6ce76c6cbd15-Paper.pdf'}
 - {name: 'Online adversarial purification based on self-supervised learning, ', 
   author: 'C. Shi, C. Holtz and G. Mishne, ',
-  publish: '9th International Conference on Learning Representations (ICLR 2021)',
+  publish: '9th International Conference on Learning Representations (ICLR 2021).',
   url: 'https://arxiv.org/pdf/2101.09387.pdf'}
 - {name: 'Provable Robustness by Geometric Regularization of ReLU Networks, ',
   author: 'C. Holtz, C. Shi and G. Mishne, ',
-  publish: 'in arXiv'}
+  publish: 'in arXiv.'}
