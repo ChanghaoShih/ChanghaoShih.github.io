@@ -1,7 +1,8 @@
 featured:
 - {name: 'Cartesian Product Graph Learning with Laplacian Constraints, ',
   author: 'C. Shi and G. Mishne, ',
-  publish: 'The 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024).'}
+  publish: 'The 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024).',
+  url: 'https://arxiv.org/abs/2402.08105'}
 - {name: 'Conditional Image-to-Video Generation with Latent Flow Diffusion Models, ',
   author: 'H. Ni, C. Shi, K. Li, S. X. Huang and M. R. Min, ',
   publish: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023).',
@@ -22,7 +23,8 @@ index:
   url: 'https://arxiv.org/pdf/2306.08201.pdf'}
 - {name: 'Cartesian Product Graph Learning with Laplacian Constraints, ',
   author: 'C. Shi and G. Mishne, ',
-  publish: 'The 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024).'}
+  publish: 'The 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024).',
+  url: 'https://arxiv.org/abs/2402.08105'}
 - {name: 'Conditional Image-to-Video Generation with Latent Flow Diffusion Models, ', 
   author: 'H. Ni, C. Shi, K. Li, S. X. Huang and M. R. Min, ',
   publish: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023).',
