@@ -1,5 +1,6 @@
 menu:
 # - {name: 'people', url: '/people'}
+- {name: 'Home', url: "{{ site.github.url }}/"}
 - {name: 'Publications', url: '/publications'}
 - {name: 'Teaching', url: '/teaching'}
 - {name: 'CV', url: '/cv/Resume24-Changhao.pdf'} 
